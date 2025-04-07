@@ -20,3 +20,4 @@ jobs:
       timeout-minutes: 1
       run: |
         pip install -r requirements.txt
+        sleep 600
